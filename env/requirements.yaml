@@ -10,3 +10,6 @@ dependencies:
 - name: my-spring-boot-app-20180306
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: demo-20180603-2000
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
