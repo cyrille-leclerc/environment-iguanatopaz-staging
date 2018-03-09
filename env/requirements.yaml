@@ -13,3 +13,6 @@ dependencies:
 - name: demo-20180603-2000
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: spring-petclinic-20180309
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
